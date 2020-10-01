@@ -9,7 +9,7 @@ how to get it running
 
 ```
 
-git clone https://github.com/earthshakira/a2oj-clientside.git
+git clone https://github.com/godslayer/a2oj-clientside.git
 cd a2oj-clientside/server
 ./start.sh
 
