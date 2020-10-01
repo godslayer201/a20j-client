@@ -1,6 +1,6 @@
 # A2OJ local clone with updates
 
-[The Actual Site is here](./server/)
+[The Actual Site is here](https://godslayer201.github.io/a20j-client/server/)
 
 A2OJ functionality with client side updates based on Codeforces API
 
