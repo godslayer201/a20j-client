@@ -4,6 +4,8 @@
 
 A2OJ functionality with client side updates based on Codeforces API
 
+Added to preserve A20J
+
 
 how to get it running
 
