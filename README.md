@@ -2,12 +2,12 @@
 
 [Site is here](https://godslayer201.github.io/a20j-client/server/)
 
-A2OJ functionality with client side updates based on Codeforces API
+- A2OJ functionality with client side updates based on Codeforces API
 
-Added to preserve A20J
+- Added to preserve A20J
 
 
-how to get it running
+- How to get it running
 
 ```
 
