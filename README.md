@@ -12,7 +12,7 @@
 ```
 
 git clone https://github.com/godslayer/a2oj-clientside.git
-cd a2oj-clientside/server
+cd a20j-clientside/server
 ./start.sh
 
 ```
